@@ -28,12 +28,12 @@ const HeroSection = () => {
             Hello I’m <span className="font-extrabold">{hero.name}.</span>
           </h1>
           <h2 className="text-display-medium font-extrabold text-primary-black">
-            <span className="underline decoration-zinc-800 decoration-8">
+            <span >
               {hero.primaryRole}
             </span>{" "}
-            <mark className="rounded bg-primary-black px-2 text-primary-white">
+            <span>
               {hero.secondaryRole}
-            </mark>
+            </span>
           </h2>
           <h3 className="text-display-medium font-light text-primary-black">
             Based In <span className="font-extrabold">{hero.location}.</span>

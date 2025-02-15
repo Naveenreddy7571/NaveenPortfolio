@@ -37,7 +37,7 @@ export const projectsConfig: Project[] = [
     number: "03",
     title: "Second Brain",
     description: `Second Brain" is an AI-powered application designed to revolutionize research, planning, and productivity. It allows users to seamlessly integrate and interact with various content types—such as books, PDFs, videos, and websites—providing precise, actionable insights tailored to individual needs. With features like Memory and a Chrome Extension, users can effortlessly save and organize information, making complex tasks more manageable and efficient.`,
-    imageLight: "/projectSection/project2.avif",
+    imageLight: "/projectSection/project3.png",
     imageDark: "/projectSection/project3.png",
     reverse: false,
     link: "https://github.com/Naveenreddy7571/Second-Brain",
