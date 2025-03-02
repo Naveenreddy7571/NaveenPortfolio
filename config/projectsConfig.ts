@@ -40,6 +40,6 @@ export const projectsConfig: Project[] = [
     imageLight: "/projectSection/secondbrain.png",
     imageDark: "/projectSection/secondbrain.png",
     reverse: false,
-    link: "https://github.com/Naveenreddy7571/Second-Brain",
+    link: "https://second-brain-pink.vercel.app/",
   },
 ];
